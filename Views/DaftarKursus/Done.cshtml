@@ -1,0 +1,19 @@
+﻿@model KursusENGFinal.Models.DaftarKursus
+
+@{
+    ViewData["Title"] = "Done";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Done!</h1>
+    <p>Silahkan ditunggu, anda akan dihubungi dalam 1x24Jam</a>.</p>
+    <button id="redirect" type="submit" class="w-100 btn btn-lg btn-primary" onclick="window.location= '@Url.Action( "Index", "Home")'">Home!</button>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+

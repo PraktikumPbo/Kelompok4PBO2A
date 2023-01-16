@@ -9,4 +9,5 @@ TEMA Website Kursus Bahasa Inggris
 3. Marjuniati Putri 1214001
 4. Hilal Fakhri Dzakwan 1214018
 
-NOTE: Silahkan Download zip dari realease untuk full code nya
+NOTE: 
+- Silahkan Download zip dari realease untuk full code nya

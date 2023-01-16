@@ -8,3 +8,5 @@ TEMA Website Kursus Bahasa Inggris
 2. Daslan Josua Valentino Siahaan 1214011
 3. Marjuniati Putri 1214001
 4. Hilal Fakhri Dzakwan 1214018
+
+NOTE: Silahkan Download zip dari realease untuk full code nya
